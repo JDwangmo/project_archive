@@ -3,6 +3,8 @@
 ## 列表：
 
 ### 1 综合类
+- 1.1 [deepLearningBook](https://github.com/JDwangmo/deepLearningBook)
+    - 学习笔记
 
 ### 2 文本类/自然语言处理(NLP)
 
@@ -29,9 +31,12 @@
 
 #### 3.1 对象识别（Object Recognition）
     
-- 3.1.1 [digitRecognition](https://github.com/JDwangmo/digitRecognition):
+- 3.1.1 [nlp_util](https://github.com/JDwangmo/nlp_util)
+    - 图像处理工具
+    
+- 3.1.2 [digitRecognition](https://github.com/JDwangmo/digitRecognition):
     - 字符（34个，10数字+24字母）识别
    
-- 3.1.2 [digitRecognition_C](https://github.com/JDwangmo/digitRecognition_C):
-    - 字符（34个，10数字+24字母）识别，项目 `3.1.1` 的C语言实现版本
+- 3.1.3 [digitRecognition_C](https://github.com/JDwangmo/digitRecognition_C):
+    - 字符（34个，10数字+24字母）识别，项目 `3.1.2` 的C语言实现版本
 
