@@ -25,7 +25,7 @@
     
 - 2.1.5 [weiboStanceDetection](https://github.com/JDwangmo/weiboStanceDetection):
     - NLPCC-ICCPOL 2016 Shared Task： Stance Detection in Chinese Microblogs
-    - 中文微博立场分析，中文
+    - 中文微博立场分析，中文,aspect-based sentiment analysis
 
 ### 3 图像类/图像处理(Image Processing)
 
