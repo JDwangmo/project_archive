@@ -5,6 +5,8 @@
 ### 1 综合类
 - 1.1 [deepLearningBook](https://github.com/JDwangmo/deepLearningBook)
     - 学习笔记
+- 1.2 [papers_archive](https://github.com/JDwangmo/papers_archive)
+    - paper 归档
 
 ### 2 文本类/自然语言处理(NLP)
 
