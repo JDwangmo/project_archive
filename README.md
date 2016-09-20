@@ -10,22 +10,27 @@
 
 ### 2 文本类/自然语言处理(NLP)
 
-#### 2.1 sentimentAnalysis
+#### 2.1 综合类
 
-- 2.1.1 [nlp_util](https://github.com/JDwangmo/nlp_util)
+- 2.1.1 [awesome-nlp](https://github.com/keonkim/awesome-nlp)
+    - 自然语言处理工具
+
+#### 2.2 sentimentAnalysis
+    
+- 2.2.1 [nlp_util](https://github.com/JDwangmo/nlp_util)
     - 自然语言处理工具
     
-- 2.1.2 [sentiment_classification](https://github.com/JDwangmo/sentiment_classification)
+- 2.2.2 [sentiment_classification](https://github.com/JDwangmo/sentiment_classification)
     - 多个英文公共数据集 上做 句子 的语义分类
 
-- 2.1.3 [sentimentAnalysis](https://github.com/JDwangmo/sentimentAnalysis):
+- 2.2.3 [sentimentAnalysis](https://github.com/JDwangmo/sentimentAnalysis):
     - IALP 2016 Shared Task:Dimensional Sentiment Analysis for Chinese Words 
     - 中文 词 多维度语义分析
     
-- 2.1.4 [coprocessor](https://github.com/JDwangmo/coprocessor):
+- 2.2.4 [coprocessor](https://github.com/JDwangmo/coprocessor):
     - 协处理项目，中文    
     
-- 2.1.5 [weiboStanceDetection](https://github.com/JDwangmo/weiboStanceDetection):
+- 2.2.5 [weiboStanceDetection](https://github.com/JDwangmo/weiboStanceDetection):
     - NLPCC-ICCPOL 2016 Shared Task： Stance Detection in Chinese Microblogs
     - 中文微博立场分析，中文,aspect-based sentiment analysis
 
