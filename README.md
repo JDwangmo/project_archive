@@ -14,6 +14,9 @@
 
 - 2.1.1 [awesome-nlp](https://github.com/keonkim/awesome-nlp)
     - 自然语言处理工具
+    
+- 2.1.2 [LINDAT](https://lindat.mff.cuni.cz/en/)
+    - 有不少语言学的处理工具，如语法树等，来自捷克共和国的语言学研究中心
 
 #### 2.2 sentimentAnalysis
     
