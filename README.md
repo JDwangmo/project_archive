@@ -41,7 +41,7 @@
 
 #### 3.1 对象识别（Object Recognition）
     
-- 3.1.1 [nlp_util](https://github.com/JDwangmo/nlp_util)
+- 3.1.1 [image_util](https://github.com/JDwangmo/image_util)
     - 图像处理工具
     
 - 3.1.2 [digitRecognition](https://github.com/JDwangmo/digitRecognition):
