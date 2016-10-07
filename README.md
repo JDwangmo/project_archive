@@ -18,6 +18,10 @@
 - 2.1.2 [LINDAT](https://lindat.mff.cuni.cz/en/)
     - 有不少语言学的处理工具，如语法树等，来自捷克共和国的语言学研究中心
 
+- 2.1.3 [stopwords资源](https://github.com/JDwangmo/stop-words): 多种语言的stopwords汇总
+[stopwords Python package]() a Python package containing stop words.
+> For Mac/Unix with pip:  $ sudo pip install stop-words.
+
 #### 2.2 sentimentAnalysis
     
 - 2.2.1 [nlp_util](https://github.com/JDwangmo/nlp_util)
