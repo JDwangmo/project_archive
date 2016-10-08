@@ -21,8 +21,9 @@
 - 2.1.3 [stopwords资源](https://github.com/JDwangmo/stop-words): 多种语言的stopwords汇总
 1. [Alir3z4/python-stop-words](https://github.com/Alir3z4/python-stop-words) ： a Python package containing stop words.
 > For Mac/Unix with pip:  $ sudo pip install stop-words.
-2. [astuanax/stopwords](https://github.com/astuanax/stopwords): 同样是python版本的stopwords
+2. [astuanax/stopwords](https://github.com/astuanax/stopwords): 同样是python版本的stopwords,在上面项目的基础之上
 > For Mac/Unix with pip:  $ sudo pip install stopwords.
+
 
 #### 2.2 sentimentAnalysis
     
@@ -36,12 +37,18 @@
     - IALP 2016 Shared Task:Dimensional Sentiment Analysis for Chinese Words 
     - 中文 词 多维度语义分析
     
-- 2.2.4 [coprocessor](https://github.com/JDwangmo/coprocessor):
-    - 协处理项目，中文    
-    
-- 2.2.5 [weiboStanceDetection](https://github.com/JDwangmo/weiboStanceDetection):
+- 2.2.4 [weiboStanceDetection](https://github.com/JDwangmo/weiboStanceDetection):
     - NLPCC-ICCPOL 2016 Shared Task： Stance Detection in Chinese Microblogs
     - 中文微博立场分析，中文,aspect-based sentiment analysis
+    
+#### 2.3 Dialogue system 
+
+- 2.3.1 [coprocessor](https://github.com/JDwangmo/coprocessor):
+    - c h 2 r 协处理项目，中文 ， 导购       
+    
+- 2.3.2 [ITPRSLU](https://github.com/JDwangmo/ITPRSLU):
+    - ITPR SLU 主处理项目，中文，旅游    
+
 
 ### 3 图像类/图像处理(Image Processing)
 
