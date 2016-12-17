@@ -7,7 +7,10 @@
     - 学习笔记
 - 1.2 [papers_archive](https://github.com/JDwangmo/papers_archive)
     - paper 归档
-
+- 1.3 工具
+    - [spark_test](https://github.com/JDwangmo/pyspark_test): pyspark脚本
+    
+    
 ### 2 文本类/自然语言处理(NLP)
 
 #### 2.1 综合类
