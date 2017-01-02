@@ -27,7 +27,7 @@
 2. [astuanax/stopwords](https://github.com/astuanax/stopwords): 同样是python版本的stopwords,在上面项目的基础之上
 > For Mac/Unix with pip:  $ sudo pip install stopwords.
 
-- 2.1.4 []: Python library for processing Chinese text
+- 2.1.4 [SnowNLP](https://github.com/isnowfy/snownlp): Python library for processing Chinese text; Simplified Chinese Text Processing
 
 #### 2.2 sentimentAnalysis
     
