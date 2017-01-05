@@ -16,18 +16,21 @@
 #### 2.1 综合类
 
 - 2.1.1 [awesome-nlp](https://github.com/keonkim/awesome-nlp)
-    - 自然语言处理工具
+    - 自然语言处理工具汇总
     
 - 2.1.2 [LINDAT](https://lindat.mff.cuni.cz/en/)
     - 有不少语言学的处理工具，如语法树等，来自捷克共和国的语言学研究中心
 
 - 2.1.3 [stopwords资源](https://github.com/JDwangmo/stop-words): 多种语言的stopwords汇总
-1. [Alir3z4/python-stop-words](https://github.com/Alir3z4/python-stop-words) ： a Python package containing stop words.
+    1. [Alir3z4/python-stop-words](https://github.com/Alir3z4/python-stop-words) ： a Python package containing stop words.
 > For Mac/Unix with pip:  $ sudo pip install stop-words.
-2. [astuanax/stopwords](https://github.com/astuanax/stopwords): 同样是python版本的stopwords,在上面项目的基础之上
+    2. [astuanax/stopwords](https://github.com/astuanax/stopwords): 同样是python版本的stopwords,在上面项目的基础之上
 > For Mac/Unix with pip:  $ sudo pip install stopwords.
 
 - 2.1.4 [SnowNLP](https://github.com/isnowfy/snownlp): Python library for processing Chinese text; Simplified Chinese Text Processing
+
+- 2.1.5 [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies)： Python interface for converting Penn Treebank trees to Stanford Dependencies.
+    - 依赖树，需要先下载 模型文件 
 
 #### 2.2 sentimentAnalysis
     
