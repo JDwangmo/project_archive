@@ -59,7 +59,10 @@
 - 2.3.2 [ITPRSLU](https://github.com/JDwangmo/ITPRSLU):
     - ITPR SLU 主处理项目，中文，旅游    
 
-
+- 2.3.3 [ch2r_dataset](https://github.com/JDwangmo/ch2r_dataset):
+    - from C h 2 R system's log
+    - some dataset for SLU research 
+    
 ### 3 图像类/图像处理(Image Processing)
 
 #### 3.1 对象识别（Object Recognition）
