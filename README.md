@@ -23,14 +23,14 @@
 
 - 2.1.3 [stopwords资源](https://github.com/JDwangmo/stop-words): 多种语言的stopwords汇总
     1. [Alir3z4/python-stop-words](https://github.com/Alir3z4/python-stop-words) ： a Python package containing stop words.
-> For Mac/Unix with pip:  $ sudo pip install stop-words.
+        - > For Mac/Unix with pip:  $ sudo pip install stop-words.
     2. [astuanax/stopwords](https://github.com/astuanax/stopwords): 同样是python版本的stopwords,在上面项目的基础之上
-> For Mac/Unix with pip:  $ sudo pip install stopwords.
+        - > For Mac/Unix with pip:  $ sudo pip install stopwords.
 
 - 2.1.4 [SnowNLP](https://github.com/isnowfy/snownlp): Python library for processing Chinese text; Simplified Chinese Text Processing
 
 - 2.1.5 [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies)： Python interface for converting Penn Treebank trees to Stanford Dependencies.
-    - 依赖树，需要先下载 模型文件 
+    - Stanford依赖树，需要先下载 模型文件 
 
 #### 2.2 sentimentAnalysis
     
