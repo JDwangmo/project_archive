@@ -47,6 +47,9 @@
 - 2.2.4 [weiboStanceDetection](https://github.com/JDwangmo/weiboStanceDetection):
     - NLPCC-ICCPOL 2016 Shared Task： Stance Detection in Chinese Microblogs
     - 中文微博立场分析，中文,aspect-based sentiment analysis
+- 2.2.5 [chinese_sentiment_net](https://github.com/JDwangmo/chinese_sentiment_net):
+    - 收集了中文的词典、hownet、wordnet等
+    - 构建一个中文语义网络/字典
     
 #### 2.3 Dialogue system 
 
