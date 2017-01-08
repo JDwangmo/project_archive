@@ -9,7 +9,7 @@
     - paper 归档
 - 1.3 工具
     - [spark_test](https://github.com/JDwangmo/pyspark_test): pyspark脚本
-    
+    - [CnblogsSpider](https://github.com/JDwangmo/CnblogsSpider): 爬虫，数据爬取，Scrapy框架
     
 ### 2 文本类/自然语言处理(NLP)
 
