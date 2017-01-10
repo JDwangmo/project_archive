@@ -53,8 +53,8 @@
     - 构建一个中文语义网络/字典   
      
 - 2.2.6 [IALP2016_OOD_DA_Recognition](https://github.com/JDwangmo/IALP2016_OOD_DA_Recognition):
-    - 收集了中文的词典、hownet、wordnet等
-    - 构建一个中文语义网络/字典
+    - IALP 2016 paper 的实验部分
+    - Dialogue Act Recognition for Chinese Out-of-Domain Utterances using Hybrid CNN-RF (oral paper)
     
 #### 2.3 Dialogue system 
 
