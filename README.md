@@ -68,6 +68,11 @@
     - from C h 2 R system's log
     - some dataset for SLU research 
     
+- 2.3.4 [ch2r_ID_detection](https://github.com/JDwangmo/ch2r_ID_detection):
+    - C h 2 R system
+    - C h 2 R in-domain's detection
+    - 有效语义检测
+    
 
 ### 3 图像类/图像处理(Image Processing)
 
