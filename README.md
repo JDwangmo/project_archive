@@ -61,14 +61,17 @@
 - 2.3.1 [coprocessor](https://github.com/JDwangmo/coprocessor):
     - c h 2 r 协处理项目，中文 ， 导购       
     
-- 2.3.2 [ITPRSLU](https://github.com/JDwangmo/ITPRSLU):
+- 2.3.2 [Ch2RCorprocess](http://git.oschina.net/mowang/Ch2RCorprocess):
+    - c h 2 r 协处理项目（服务器） ，中文 ， 导购 
+    
+- 2.3.3 [ITPRSLU](https://github.com/JDwangmo/ITPRSLU):
     - ITPR SLU 主处理项目，中文，旅游    
 
-- 2.3.3 [ch2r_dataset](https://github.com/JDwangmo/ch2r_dataset):
+- 2.3.4 [ch2r_dataset](https://github.com/JDwangmo/ch2r_dataset):
     - from C h 2 R system's log
     - some dataset for SLU research 
     
-- 2.3.4 [ch2r_ID_detection](https://github.com/JDwangmo/ch2r_ID_detection):
+- 2.3.5 [ch2r_ID_detection](https://github.com/JDwangmo/ch2r_ID_detection):
     - C h 2 R system
     - C h 2 R in-domain's detection
     - 有效语义检测
