@@ -60,23 +60,31 @@
 
 - 2.3.1 [coprocessor](https://github.com/JDwangmo/coprocessor):
     - c h 2 r 协处理项目，中文 ， 导购       
+    - 已经停止更新
+    - 已拆分多个项目
     
-- 2.3.2 [Ch2RCorprocess](http://git.oschina.net/mowang/Ch2RCorprocess):
-    - c h 2 r 协处理项目（服务器） ，中文 ， 导购 
-    
+- 2.3.2 [ch2r_dataset](https://github.com/JDwangmo/ch2r_dataset):
+    - from C h 2 R system's log
+    - some dataset for SLU research 
 - 2.3.3 [ITPRSLU](https://github.com/JDwangmo/ITPRSLU):
     - ITPR SLU 主处理项目，中文，旅游    
 
-- 2.3.4 [ch2r_dataset](https://github.com/JDwangmo/ch2r_dataset):
-    - from C h 2 R system's log
-    - some dataset for SLU research 
-    
-- 2.3.5 [ch2r_ID_detection](https://github.com/JDwangmo/ch2r_ID_detection):
+- 2.3.4 [ch2r_ID_detection](https://github.com/JDwangmo/ch2r_ID_detection):
     - C h 2 R system
     - C h 2 R in-domain's detection
     - 有效语义检测
+    - ID 检测模块，即将输入对话系统的话语分为 ID 和 OOD 两类，
+        - ID话语的进入[2.3.6 Ch2RSLU](http://git.oschina.net/mowang/Ch2RSLU)处理，
+        - 而OOD话语进入[2.3.5 协处理](http://git.oschina.net/mowang/Ch2RCorprocess)
     
-
+- 2.3.5 [Ch2RCorprocess](http://git.oschina.net/mowang/Ch2RCorprocess):
+    - c h 2 r 系统SLU - 协处理
+    - c h 2 r 协处理项目（服务器） ，中文 ， 导购 
+    
+- 2.3.6 [Ch2RSLU](http://git.oschina.net/mowang/Ch2RSLU)
+    - c h 2 r 系统SLU - 主处理
+    - 主处理器 ID（领域内话语）的 SLU（句子理解） 
+    
 ### 3 图像类/图像处理(Image Processing)
 
 #### 3.1 对象识别（Object Recognition）
