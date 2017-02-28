@@ -52,16 +52,17 @@
     - 收集了中文的词典、hownet、wordnet等
     - 构建一个中文语义网络/字典   
      
-- 2.2.6 [IALP2016_OOD_DA_Recognition](https://github.com/JDwangmo/IALP2016_OOD_DA_Recognition):
+- 2.2.6 [IALP2016_OOD_DA_Recognition](https://bitbucket.org/JDmowang/ialp2016_ood_da_recognition):
     - IALP 2016 paper 的实验部分
     - Dialogue Act Recognition for Chinese Out-of-Domain Utterances using Hybrid CNN-RF (oral paper)
     
 #### 2.3 Dialogue system 
 
-- 2.3.1 [coprocessor](https://github.com/JDwangmo/coprocessor):
+- 2.3.1 [coprocessor](https://bitbucket.org/JDmowang/coprocessor):
     - c h 2 r 协处理项目，中文 ， 导购       
     - 已经停止更新
     - 已拆分多个项目
+    - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
     
 - 2.3.2 [ch2r_dataset](https://github.com/JDwangmo/ch2r_dataset):
     - from C h 2 R system's log
