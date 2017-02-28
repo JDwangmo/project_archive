@@ -48,13 +48,15 @@
     - NLPCC-ICCPOL 2016 Shared Task： Stance Detection in Chinese Microblogs
     - 中文微博立场分析，中文,aspect-based sentiment analysis
     
-- 2.2.5 [chinese_sentiment_net](https://github.com/JDwangmo/chinese_sentiment_net):
+- 2.2.5 [chinese_sentiment_net](https://bitbucket.org/JDmowang/chinese_sentiment_net):
     - 收集了中文的词典、hownet、wordnet等
     - 构建一个中文语义网络/字典   
+    - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
      
 - 2.2.6 [IALP2016_OOD_DA_Recognition](https://bitbucket.org/JDmowang/ialp2016_ood_da_recognition):
     - IALP 2016 paper 的实验部分
     - Dialogue Act Recognition for Chinese Out-of-Domain Utterances using Hybrid CNN-RF (oral paper)
+    - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
     
 #### 2.3 Dialogue system 
 
@@ -64,11 +66,14 @@
     - 已拆分多个项目
     - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
     
-- 2.3.2 [ch2r_dataset](https://github.com/JDwangmo/ch2r_dataset):
+- 2.3.2 [ch2r_dataset](https://bitbucket.org/JDmowang/ch2r_dataset):
     - from C h 2 R system's log
     - some dataset for SLU research 
-- 2.3.3 [ITPRSLU](https://github.com/JDwangmo/ITPRSLU):
+    - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
+
+- 2.3.3 [ITPRSLU](https://bitbucket.org/JDwangmo/ITPRSLU):
     - ITPR SLU 主处理项目，中文，旅游    
+    - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
 
 - 2.3.4 [ch2r_ID_detection](https://github.com/JDwangmo/ch2r_ID_detection):
     - C h 2 R system
