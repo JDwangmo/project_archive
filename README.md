@@ -89,7 +89,12 @@
     
 - 2.3.6 [Ch2RSLU](http://git.oschina.net/mowang/Ch2RSLU)
     - c h 2 r 系统SLU - 主处理
-    - 主处理器 ID（领域内话语）的 SLU（句子理解） 
+    - 主处理器 ID（领域内话语）的 SLU（句子理解）     
+    
+- 2.3.7 [Ch2RDomainInfoManage](http://git.oschina.net/mowang/Ch2RDomainInfoManage)
+    - Ch2R 领域信息 管理
+    - 手机信息的爬取
+    - 当前版本: version1.0
     
 ### 3 图像类/图像处理(Image Processing)
 
