@@ -71,7 +71,7 @@
     - some dataset for SLU research 
     - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
 
-- 2.3.3 [ITPRSLU](https://bitbucket.org/JDmowang/ITPRSLU):
+- 2.3.3 [ITPRSLU](https://bitbucket.org/JDmowang/itprslu):
     - ITPR SLU 主处理项目，中文，旅游    
     - 2017.02.28 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
 
@@ -103,7 +103,7 @@
 - 3.1.1 [image_util](https://github.com/JDwangmo/image_util)
     - 图像处理工具
     
-- 3.1.2 [digitRecognition](https://bitbucket.org/JDmowang/digitRecognition):
+- 3.1.2 [digitRecognition](https://bitbucket.org/JDmowang/digitrecognition):
     - 字符（34个，10数字+24字母）识别
     - 2017.03.07 为了保护知识产权，只能从github上面删除，移到 bitbucket 的私有项目
     
