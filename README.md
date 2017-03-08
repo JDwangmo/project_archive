@@ -110,7 +110,7 @@
 - 3.1.3 [digitRecognition_C](https://github.com/JDwangmo/digitRecognition_C):
     - 字符（34个，10数字+24字母）识别，CNN34分类器和CNN2分类器组合;项目 `3.1.2` 的C语言实现版本   
     
-- 3.1.4 [dR_c](https://github.com/JDwangmo/dR_c):
+- 3.1.4 [dR_c](https://bitbucket.org/JDmowang/dR_c):
     - 字符（34个，10数字+24字母）识别，项目 `3.1.2` 的C语言实现版本;在项目`3.1.3`的基础
 
 ### 4 用户建模/客户画像
