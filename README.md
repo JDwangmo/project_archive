@@ -10,6 +10,7 @@
 - 1.3 工具
     - [spark_test](https://github.com/JDwangmo/pyspark_test): pyspark脚本
     - [CnblogsSpider](https://github.com/JDwangmo/CnblogsSpider): 爬虫，数据爬取，Scrapy框架
+    - [pytorch](https://github.com/pytorch/pytorch):Tensors and Dynamic neural networks in Python with strong GPU acceleration http://pytorch.org
     
 ### 2 文本类/自然语言处理(NLP)
 
