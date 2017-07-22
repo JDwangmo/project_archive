@@ -12,11 +12,12 @@
     - [CnblogsSpider](https://github.com/JDwangmo/CnblogsSpider): 爬虫，数据爬取，Scrapy框架
     - [Crayon](https://github.com/torrvision/crayon): 可视化工具（Crayon is a framework that gives you access to the visualisation power of TensorBoard with any language. Currently it provides a Python and a Lua interface, however you can easily implement a wrapper around the provided RESTful API.）
     - [pytorch](https://github.com/pytorch/pytorch):Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-        - 安装方法： `pip install http://download.pytorch.org/whl/cu75/torch-0.1.12.post2-cp27-none-linux_x86_64.whl 
-pip install torchvision`
-        - [官网]：http://pytorch.org
-        - [torchsample](https://github.com/ncullen93/torchsample)：High-Level Training, Data Augmentation, and Utilities for Pytorch
-        - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch):a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+        - 安装方法： 
+         - `> pip install http://download.pytorch.org/whl/cu75/torch-0.1.12.post2-cp27-none-linux_x86_64.whl`
+         - `> pip install torchvision`
+        - [官网](http://pytorch.org)
+        - [torchsample](https://github.com/ncullen93/torchsample)：High-Level Training, Data Augmentation, and Utilities for Pytorch
+        - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch):a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
         - [practical-pytorch](https://github.com/spro/practical-pytorch):pytorch教程
     
 ### 2 文本类/自然语言处理(NLP)
