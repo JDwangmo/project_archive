@@ -15,7 +15,8 @@
         - 安装方法： `pip install http://download.pytorch.org/whl/cu75/torch-0.1.12.post2-cp27-none-linux_x86_64.whl 
 pip install torchvision`
         - [官网]：http://pytorch.org
-        - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch):a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+        - [torchsample](https://github.com/ncullen93/torchsample)：High-Level Training, Data Augmentation, and Utilities for Pytorch
+        - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch):a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
         - [practical-pytorch](https://github.com/spro/practical-pytorch):pytorch教程
     
 ### 2 文本类/自然语言处理(NLP)
