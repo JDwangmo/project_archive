@@ -19,7 +19,7 @@
         - [torchsample](https://github.com/ncullen93/torchsample)：High-Level Training, Data Augmentation, and Utilities for Pytorch
         - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch):a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
         - [practical-pytorch](https://github.com/spro/practical-pytorch):pytorch教程
-    - [open-cv2](https://github.com/opencv/opencv):
+     - [open-cv2](https://github.com/opencv/opencv):
        - 安装方法: https://docs.opencv.org/3.1.0/d7/d9f/tutorial_linux_install.html
           1. cd ~/opencv
           2. mkdir build
@@ -27,7 +27,6 @@
           4. cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
           5. make -j7 # runs 7 jobs in parallel
           6. sudo make install
-          7. 
   
     
 ### 2 文本类/自然语言处理(NLP)
