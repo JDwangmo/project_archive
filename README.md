@@ -7,8 +7,8 @@
     - 学习笔记
 - 1.2 [papers_archive](https://github.com/JDwangmo/papers_archive)
     - paper 归档
-- 1.3 工具
-    - [spark_test](https://github.com/JDwangmo/pyspark_test): pyspark脚本
+- 1.3 工具及安装
+    - [spark_test](https://github.com/JDwangmo/pyspark_test): pyspark脚本
     - [CnblogsSpider](https://github.com/JDwangmo/CnblogsSpider): 爬虫，数据爬取，Scrapy框架
     - [Crayon](https://github.com/torrvision/crayon): 可视化工具（Crayon is a framework that gives you access to the visualisation power of TensorBoard with any language. Currently it provides a Python and a Lua interface, however you can easily implement a wrapper around the provided RESTful API.）
     - [pytorch](https://github.com/pytorch/pytorch):Tensors and Dynamic neural networks in Python with strong GPU acceleration.
@@ -19,6 +19,16 @@
         - [torchsample](https://github.com/ncullen93/torchsample)：High-Level Training, Data Augmentation, and Utilities for Pytorch
         - [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch):a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
         - [practical-pytorch](https://github.com/spro/practical-pytorch):pytorch教程
+    - [open-cv2](https://github.com/opencv/opencv):
+       - 安装方法: https://docs.opencv.org/3.1.0/d7/d9f/tutorial_linux_install.html
+          1. cd ~/opencv
+          2. mkdir build
+          3. cd build
+          4. cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
+          5. make -j7 # runs 7 jobs in parallel
+          6. sudo make install
+          7. 
+  
     
 ### 2 文本类/自然语言处理(NLP)
 
