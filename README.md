@@ -132,6 +132,13 @@
     - 字符（34个，10数字+24字母）识别，项目 `3.1.2` 的C语言实现版本;在项目`3.1.3`的基础
 - 3.1.5 [faster_rcnn](https://github.com/JDwangmo/faster_rcnn): Faster RCNN
 
+#### 3.2 姿态估计（Opse Estimation）
+
+- 3.2.1 Realtime_Multi-Person_Pose_Estimation
+    - pytorch版本[https://github.com/JDwangmo/pytorch_Realtime_Multi-Person_Pose_Estimation]
+    
+    - mxnet版本[https://github.com/JDwangmo/mxnet_Realtime_Multi-Person_Pose_Estimation]
+
 ### 4 用户建模/客户画像
 
 #### 4.1 客户画像
