@@ -136,8 +136,7 @@
 
 - 3.2.1 Realtime_Multi-Person_Pose_Estimation
     - pytorch版本[https://github.com/JDwangmo/pytorch_Realtime_Multi-Person_Pose_Estimation]
-    
-    - mxnet版本[https://github.com/JDwangmo/mxnet_Realtime_Multi-Person_Pose_Estimation]
+    - mxnet版本[https://github.com/JDwangmo/mxnet_Realtime_Multi-Person_Pose_Estimation]
 
 ### 4 用户建模/客户画像
 
